@@ -1,14 +1,24 @@
-- Wear your Silverhawk Boots as much as possible).
-- Whenever a Strange rock is acquired in a certain skill X. Make sure that you always switch to skill Y. This is due to the fact that the chance to obtain a second rock in skill X is always severely reduced, so never go for two rocks in a row in the same skill!
+This is just a small text that I've made, containing information about how I collected the rocks that are needed for the Trimmed Completionist Cape.
+The requirements are called: 'Who Will Be Her Lover?' & 'Stone's Throw Away'. 
+
+The information in this text won't provide you with most efficient way to obtain the rocks as fast as possible. 
+I'm 100% sure there are better/faster methods out there. This is just a general guideline for how I approached these requirements.
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+- Optional: Wear your Silverhawk Boots as much as possible.
+- Optional: Use your skilling items/outfits.
+
+- Mandatory: Whenever a Strange rock is acquired in a certain skill X. Make sure that you always switch to skill Y. This is due to the fact that the chance to obtain a second rock in skill X is always severely reduced, so never go for two rocks in a row in the same skill!
 
 - G = Golden Rock.
 - S = Strange Rock.
-
+- W84 = Teleport to Lumbridge nd use the Portables by the bank (chest) nearby.
 
 SG Agility: Use the Manual Auto-Cycle in The Empty Throne Room.
 SG Construction: W84 Protean Planks @ Dining Room ->  Mahogany Table. (Artificer's Measure).
 S Cooking: Fish in the VIP Area in Menaphos / (Slice Mushrooms/Mix or Cook Shark Soups or Cook Blue Blubber Jellyfish).
-SG Crafting: Black Dragonhide Shield / ACTS (8) to the Harps in Prifddinas. (Artificer's Measure).
+SG Crafting: W84 Black Dragonhide Shield / ACTS (8) to the Harps in Prifddinas. (Artificer's Measure).
 G Divination: W79 FR (BKP (5)) Incandescent Wisps + Divine Conversion Relic.
 G Dungeoneering: Preset 3 (Combat Gear), ED.
 SG Farming: Check VoS -> Mainly Farm Run (Last Resort: Forage Mushroom Clusters in The Arc (Goshima)).
@@ -29,5 +39,5 @@ G Summoning: Check VoS -> Make Spirit Terrorbird Pouches from your Raw Bird Meat
 S Thieving: Check VoS -> Elves in Prifddinas.
 SG Woodcutting: Check VoS -> Cut Ivy in Crwys. (Sana's Fyrtorch).
 
-
-Good luck with the hunt! 
+If you have any questions about this guide or suggestion, feel free to PM me! 
+Thank you and good luck with the rock-hunt! <3
