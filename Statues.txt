@@ -27,17 +27,17 @@ S Firemaking: W84 Yew Logs. (Orthen Furnace Core).
 S Fishing: Fish in the VIP Area in Menaphos / Prifddinas Waterfall.
 S Fletching: W84 Create Unstrung Bows.
 SG Herblore: Clean Grimy Herbs (Manually).
-G Magic: Troll shamans in the Abandoned Burthorpe Mine.
+G Magic: Troll Shamans in the Abandoned Burthorpe Mine.
 G Melee:  Troll Brutes in the Abandoned Burthorpe Mine / Cows in Burthorpe. 
 S Hunter: Black Warlocks (Bare-Handed) on Anachronia (Hunter Marks will be used to buy Frog Repellents at BGH when you are going for Totem of Treasure/Abyss/Summoning).
 Another method is for example Het's Oasis (Hollyhocks for XP/Golden Roses for GP). (Enhanced Yaktwee Stick).
 SG Mining: Check VoS -> Seren Stones in Prifddinas. (Tagga's Corehammer).
 G Prayer: Combine this with Combat/Slayer.
 G Ranged: Dagganoth's at the Waterbirth Island.
-G Slayer: Slayer Point Farming with Jacquelyn (Preset 5).
-S Runecrafting: Runespan / Tirannwn Quiver TP 4 Death Runes / Wicked Hood TP (249)
+G Slayer: Slayer Point Farming with Jacquelyn.
+S Runecrafting: Runespan / Tirannwn Quiver TP 4 Death Runes / Wicked Hood TP.
 SG Smithing: Check VoS -> Corrupted Ore in Prifddinas. (Orthen Furnace Core).
-G Summoning: Check VoS -> Make Spirit Terrorbird Pouches from your Raw Bird Meat Packs that you purchase from Chargurr in Oo'glog.
+G Summoning: Check VoS -> Make Spirit Terrorbird Pouches from your Raw Bird Meat Packs that you can purchase from Chargurr in Oo'glog.
 S Thieving: Check VoS -> Elves in Prifddinas.
 SG Woodcutting: Check VoS -> Cut Ivy in Crwys. (Sana's Fyrtorch).
 
